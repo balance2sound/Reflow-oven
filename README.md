@@ -4,7 +4,7 @@
 - Oven (if it have a fan) I've bought mine for 30 euros. Link: [https://www.amazon.es/Orbegozo-HO-980-temporizador-temperatura/dp/B08HKLRBBD](url)
 - SSR's x2
 - Arduino Mega or Due x1
-- Screen HX8357 480X320 x1 **Note:** GuiSlice does not support the screen from native. We use the Boodmer's HX8357 graphic library
+- Screen HX8357 480X320 x1 **Note:** We use the Boodmer's HX8357 graphic library. Interface designers like GuiSlice does not support this screen from native.
 - Heat resistant Mains cable
 - Rotary encoder with intgrated button x1
 - Switch x1 
