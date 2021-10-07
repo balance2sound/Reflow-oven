@@ -10,5 +10,6 @@
 - Switch x1 
 - Max6675 Thermopar controller x 3 (1 for top, 1 for botton and 1 for the pcb)
 - 3 thermopar type K
+- Usb or SD card module to save records (Optional)
 # Tutorial 
 - Dissasemble the oven, saving the timer and the thermostat. We could use these parts in a future or as a replacement for other oven.
