@@ -10,6 +10,6 @@
 - Switch x1 
 - Max6675 Thermopar controller x 3 (1 for top, 1 for botton and 1 for the pcb)
 - 3 thermopar type K
-**Graphic interaface note** GuiSlice does not support the screen from native. We use the Boodmer's HX8357  graphic library
+-**Graphic interaface note:** GuiSlice does not support the screen from native. We use the Boodmer's HX8357  graphic library
 # Tutorial 
 - Dissasemble the oven, saving the timer and the thermostat. We could use these parts in a future or as a replacement for other oven.
