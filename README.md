@@ -15,4 +15,4 @@
 - Heat insulator (like ceramic fiber).
 # Tutorial 
 - Dissasemble the oven, saving the timer and the thermostat. We could use these parts in a future or as a replacement for others oven.
-- Take measurements of the oven. Find the place where the components could be cool (control board, SSR's and the power supply), even if we use fans to keep them cool **>85ºC** may damage the components 
+- Take measurements of the oven. Find the place where the components could be cool (control board, SSR's and the power supply), even if we use fans to keep them to the ambient temperature.**>85ºC** may damage the components 
