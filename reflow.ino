@@ -1,6 +1,5 @@
 #include "screen.h";
-#include "coms.h";
-//#include <avr/wdt.h>
+#include <avr/wdt.h>
 boolean reset_pasado = false;
 void setup() {
 
@@ -9,7 +8,6 @@ void setup() {
     bitWrite(MCUSR, WDRF, 0);
   }
   inicializar_io();
-  inicializar_coms();
   inicializar_pantalla();
   if (reset_pasado == true) {
     cuadro_dialogo(80, 130, 160, 160, TFT_BLUE);
@@ -21,14 +19,8 @@ void setup() {
     reset_pasado = false;
     delay(5000);
   }
-  //wdt_disable();
-  //wdt_enable(WDTO_1S);
 }
 
 void loop() {
-
-  pantalla();
-  if (trabajo_iniciado == true) {
-    wdt_reset();
-  }
+  pantalla(); // función principal
 }
