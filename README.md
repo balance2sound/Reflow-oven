@@ -1,6 +1,6 @@
 # DIY-reflow-oven (WORK IN PROGRESS - Deadline: 2024)
 ## DISCLAIMER
-This proyect is in progress. The code posted here need debug or can be faulty. Please wait until finish. Deadline: Jun-2024
+This project is still progress. The code posted here need debug or can be faulty. Please wait until finish. Deadline: Jun-2024
 ## Reflow oven for soldering SMD and BGA's
 ### Buy list
 - Oven. We've bought ours for 30 euros. Link: [https://www.amazon.es/Orbegozo-HO-980-temporizador-temperatura/dp/B08HKLRBBD](url) (if it have a fan the performance could be better)
