@@ -1,4 +1,4 @@
-# DIY-reflow-oven
+# DIY-reflow-oven (WORK IN PROGRESS)
 ## Reflow oven for soldering SMD and BGA's
 ### Buy list
 - Oven. We've bought ours for 30 euros. Link: [https://www.amazon.es/Orbegozo-HO-980-temporizador-temperatura/dp/B08HKLRBBD](url) (if it have a fan the performance could be better)
@@ -17,3 +17,5 @@
 - Dissasemble the oven, saving the timer and the thermostat. We could use these parts in a future or as a replacement for others oven.
 - Take measurements of the oven. Find the place where the components could be cool (control board, SSR's and the power supply), even if we use fans to keep them to acceptable temperatures**>85ºC** may damage the components 
 -I selected enclosure of the timer and the thermostat. The pcb was designed to fit inside with some corrections of the enclosure (It slides in a slot made by a soldering iron in the threads.) We've made a window for the screen and glued with epoxy. (If silicon glue is used, must be high temperature resistant). I cut with a knive some reinforcements of the enclosure to fit the pcb.
+
+*WORK IN PROGRESS- To be continued*
